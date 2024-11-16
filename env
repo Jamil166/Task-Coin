@@ -1,4 +1,4 @@
-REACT_APP_API_KEY = 'AIzaSyD49Pnx3irtcOBTwEJxZcokSdAXeBIf4xs'
+REACT_APP_API_KEY = 'AIzaSyCT99Y-F796JFIPKOdeGboN_VMinY-6rQc'
 REACT_APP_AUTH_DOMAIN = 'testcrypto-ae1a1.firebaseapp.com'
 REACT_APP_PROJECT_ID = 'testcrypto-ae1a1'
 REACT_APP_STORAGE_BUCKET = 'testcrypto-ae1a1.firebasestorage.app'
