@@ -4,13 +4,13 @@ import { getAuth, setPersistence, browserLocalPersistence } from 'firebase/auth'
 
 //* Add the Web App's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD49Pnx3irtcOBTwEJxZcokSdAXeBIf4xs",
-  authDomain: "testcrypto-ae1a1.firebaseapp.com",
-  projectId: "testcrypto-ae1a1",
-  storageBucket: "testcrypto-ae1a1.firebasestorage.app",
-  messagingSenderId: "413851419678",
-  appId: "1:413851419678:web:70501a1d248ce14d35da0f",
-  measurementId: "G-FXFFGJVFSP",
+  apiKey: "AIzaSyCT99Y-F796JFIPKOdeGboN_VMinY-6rQc",
+  authDomain: "task-coin-7d8fe.firebaseapp.com",
+  projectId: "task-coin-7d8fe",
+  storageBucket: "task-coin-7d8fe.firebasestorage.app",
+  messagingSenderId: "743633334962",
+  appId: "1:743633334962:web:9bd5c3a9b6c53586b2cfab",
+  measurementId: "G-W3Q20HSFYJ",
 };
 
 //* Initialize Firebase
